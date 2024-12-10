@@ -6,6 +6,9 @@
 
 [![aladd1n63's GitHub stats](https://github-readme-stats.vercel.app/api?username=aladd1n63&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aladd1n63&langs_count=8&theme=radical&border_color=30363d&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
+
 **В свою юную жизнь я пишу на таких языках как**
 - *Java*
 - *Python*
