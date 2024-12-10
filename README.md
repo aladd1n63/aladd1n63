@@ -21,7 +21,9 @@
 
 **Если у вас есть вопрос можете смело оброщатся по контактам вверху**
 
-**Также я владею проектом [«DeadlyMoon»](https://github.com/DeadlyMoonBe/) либо же [«DeathMoon»](https://github.com/deadlymoonbe/)**
+**Также я владею проектом
+![Лого](https://github.com/DeadlyMoonBe/Github/blob/main/title.png)
+[«DeadlyMoon»](https://github.com/DeadlyMoonBe/) либо же [«DeathMoon»](https://github.com/deadlymoonbe/)**
 > **Заметка**
 > *Проект на стадии разработки и скоро будет на публике*
 > *Вы можете подписатся на соц сети чтобы следить за разработкой*
